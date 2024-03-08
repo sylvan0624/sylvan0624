@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sylvan0624
+- 👋 Hi, I’m sylvan.
 - 👀 I’m interested in software development, artificial intelligence, and exploring new technologies.
 - 🌱 I’m currently learning C++ and expanding my knowledge in algorithms and data structures.
 - 💞️ I’m looking to collaborate on open-source projects related to C++ development or machine learning.
